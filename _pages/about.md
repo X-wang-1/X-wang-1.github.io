@@ -11,7 +11,7 @@ I am a first-year master's student at the School of Nursing, Peking University, 
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
+[Email](1525821816@qq.com) / [Github](https://github.com/X-wang-1) / [Wechat](../images/wechat.jpg) 
 
 A data-driven personal website
 ======
