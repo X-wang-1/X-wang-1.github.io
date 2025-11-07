@@ -23,7 +23,7 @@ repository               : "X-wang-1/X-wang-1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Wang Xu (徐王)"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
