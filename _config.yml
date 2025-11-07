@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wang Xu / Site Title"
+title                    : "Wang Xu"
 title_separator          : "-"
 name                     : &name "Wang Xu"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   orcid            : "https://orcid.org/yourorcidurl"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-
+  github           : "https://github.com/X-wang-1"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
