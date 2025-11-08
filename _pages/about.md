@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year master's student at the School of Nursing, Peking University, and I am honored to be mentored by Professor Li Pengfei. My research interests include large language models and aging.
 
-You can find my CV here: [Wang Xu's Curriculum Vitae](https://baike.baidu.com/item/%E5%BD%AD%E4%BA%8E%E6%99%8F/30541).
+You can find my CV here: [Wang Xu's Curriculum Vitae](https://zh.wikipedia.org/wiki/%E5%BD%AD%E4%BA%8E%E6%99%8F).
 
 [休息一会吧](https://www.douyin.com/) / [Github](https://github.com/X-wang-1) / [Wechat](../images/QR.jpg) 
 
