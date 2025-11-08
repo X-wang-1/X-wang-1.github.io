@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year master's student at the School of Nursing, Peking University, and I am honored to be mentored by Professor Li Pengfei. My research interests include large language models and aging.
+I am a first-year master's student at the School of Nursing, Peking University, and I am honored to be mentored by Professor Li Pengfei. My research interests include large language models and aging.I will update you if there are any further results. Trust me.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
