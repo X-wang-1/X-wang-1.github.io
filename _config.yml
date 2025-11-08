@@ -35,7 +35,6 @@ author:
   # Academic websites
   academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   github           : "https://github.com/X-wang-1"
 
   # Repositories and software development
@@ -48,7 +47,6 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
